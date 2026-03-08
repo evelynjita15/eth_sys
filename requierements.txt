@@ -3,3 +3,5 @@ biosteam
 thermosteam 
 google-generativeai
 pandas 
+Pillow
+graphviz
