@@ -1,7 +1,6 @@
+biosteam==1.1.25
+thermosteam==0.4.15
+pandas
 streamlit
-biosteam 
-thermosteam 
 google-generativeai
-pandas 
-Pillow
 graphviz
